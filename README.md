@@ -41,7 +41,8 @@ If you share my love for all things code and technology, let's connect and geek 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=353535) 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=353535) 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=353535)
+![Elixir](https://img.shields.io/badge/-Elixir-05122A?style=flat-square&logo=Elixir&color=353535)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=Node.js&color=353535) 
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-05122A?style=flat-square&logo=Express&color=353535) 
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=Flask&color=353535) 
@@ -55,7 +56,6 @@ If you share my love for all things code and technology, let's connect and geek 
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat-square&logo=Github&color=353535) 
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat-square&logo=GNU-Bash&color=353535) 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) 
-![Elixir](https://img.shields.io/badge/-Elixir-05122A?style=flat-square&logo=Elixir&color=353535)
 
 
 
