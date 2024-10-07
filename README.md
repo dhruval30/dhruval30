@@ -13,11 +13,11 @@
 But hey, that's how we learn! I'm a CS student on a quest to master the art of code. Join me as I debug my way to building awesome things!
 
 
-👨‍💻 **Passionate Explorer:** I spend my days immersed in code, constantly pushing the limits of what's possible and uncovering the latest technologies.
+**Passionate Explorer:** I spend my days immersed in code, constantly pushing the limits of what's possible and uncovering the latest technologies.
 
-🌟 **Cutting-Edge Enthusiast:** I'm drawn to cutting-edge technologies and tools, always eager to learn and grow in this rapidly evolving field.
+**Cutting-Edge Enthusiast:** I'm drawn to cutting-edge technologies and tools, always eager to learn and grow in this rapidly evolving field.
 
-💡 **Innovative Collaborator:** I love collaborating with fellow enthusiasts to brainstorm innovative solutions and share insights.
+**Innovative Collaborator:** I love collaborating with fellow enthusiasts to brainstorm innovative solutions and share insights.
 
 ## What Drives Me
 
@@ -29,7 +29,7 @@ If you share my love for all things code and technology, let's connect and geek 
 
 
 
-### 🖥 Skills
+### Skills
 
 - Programming
 - Backend Development
@@ -37,7 +37,7 @@ If you share my love for all things code and technology, let's connect and geek 
 - Database Management
 - Version Control
 - Development Tools
-### ⚙️ Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=353535) 
