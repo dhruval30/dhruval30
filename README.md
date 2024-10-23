@@ -15,7 +15,7 @@ But hey, that's how we learn! I'm a CS student on a quest to master the art of c
 
 **Passionate Explorer:** I spend my days immersed in code, constantly pushing the limits of what's possible and uncovering the latest technologies.
 
-**Cutting-Edge Enthusiast:** I'm drawn to cutting-edge technologies and tools, always eager to learn and grow in this rapidly evolving field.
+**Tech Nerd:** I'm drawn to new technologies and tools, always eager to learn and grow in this rapidly evolving field.
 
 **Innovative Collaborator:** I love collaborating with fellow enthusiasts to brainstorm innovative solutions and share insights.
 
