@@ -60,6 +60,3 @@ If you share my love for all things code and technology, let's connect and geek 
 
 
 ---
-
-## I appreciate you taking a moment to explore my skills and interests. Thank you!
-
