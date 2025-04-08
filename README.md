@@ -1,62 +1,94 @@
-# Dhruval Padia
+# Hi, I'm Dhruval Padia
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvalpadia/)
+```
+░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░        
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
+░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒▒▓█▓▒░░▒▓████████▓▒░▒▓█▓▒░        
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
+░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░   ░▒▓██▓▒░  ░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░ 
+                                                                                             
+                                                                                             
+░▒▓███████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░░▒▓█▓▒░░▒▓██████▓▒░                                   
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░                                  
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░                                  
+░▒▓███████▓▒░░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓████████▓▒░                                  
+░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░                                  
+░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░                                  
+░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░                                  
+                                                                                             
+```
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:padiadhruval@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://dhruvalpadia.site)](https://dhruvalpadia.site)
-[![Github](https://img.shields.io/badge/Github-Profile-black?style=social&logo=github)](https://github.com/dhruval30)
+## About Me:
 
+- CS student passionate about coding and technology
+- Currently learning advanced data structures and algorithms
+- Building innovative projects to expand my technical skills
+- Experienced in backend development and machine learning
+- Love collaborating on challenging technical problems
+- Constantly exploring new technologies and tools
+- 80+ WPM typing speed
 
+## Skill Set:
 
-## I Write Code, Not Bugs (Okay, Maybe Sometimes) 
+<table><tr><td valign="top" width="25%">
 
-But hey, that's how we learn! I'm a CS student on a quest to master the art of code. Join me as I debug my way to building awesome things!
+### Programming  
+<div align="center">  
+    <img src="https://skillicons.dev/icons?i=python,js,java,elixir&perline=4" /> 
+</div>
 
+</td><td valign="top" width="25%">
+    
+### Backend
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django&perline=4" /> 
+</div>
 
-**Passionate Explorer:** I spend my days immersed in code, constantly pushing the limits of what's possible and uncovering the latest technologies.
+</td><td valign="top" width="25%">
 
-**Tech Nerd:** I'm drawn to new technologies and tools, always eager to learn and grow in this rapidly evolving field.
+### Tools & Technologies
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,aws,vscode,mongodb,mysql&perline=4" /> 
+</div>
+</td>
+</tr></table>
 
-**Innovative Collaborator:** I love collaborating with fellow enthusiasts to brainstorm innovative solutions and share insights.
+## Connect with me:
+<div align="center">
+    <a href="https://www.linkedin.com/in/dhruvalpadia/" target="_blank"><img src="https://img.shields.io/badge/-Dhruval%20Padia-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:padiadhruval@gmail.com"><img src="https://img.shields.io/badge/-padiadhruval@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://dhruvalpadia.site" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Website-3B5998?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+    <a href="https://github.com/dhruval30" target="_blank"><img src="https://img.shields.io/badge/-GitHub%20Profile-24292e?style=flat&logo=GitHub&logoColor=white"/></a>
+</div>
 
-## What Drives Me
+## Github Stats:
+<p align="center">
+    <a href="https://github.com/dhruval30">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhruval30&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhruval30&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
 
-My passion for coding is the fuel that drives me forward. Whether I'm tinkering with projects or diving into challenging algorithms, I'm always seeking out new opportunities to expand my knowledge and skill set.
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/dhruval30">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=dhruval30&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+  </a> 
+</p>
 
-## Let's Connect!
+<p align="center">
+   <a href="https://github.com/dhruval30"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruval30&show_icons=true&locale=en&layout=demo&theme=onedark&hide_border=true" /> 
+   </a>  
+</p>
 
-If you share my love for all things code and technology, let's connect and geek out together! There's always something exciting to discover in this dynamic world of technology.
+<br>
 
+<div id="header" align="center">
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruval30" alt="dhruval30" /></a> </p>
+  <img src="https://komarev.com/ghpvc/?username=dhruval30&style=for-the-badge&color=orange" alt=""/>
+</div>
 
-
-### Skills
-
-- Programming
-- Backend Development
-- Machine Learning
-- Database Management
-- Version Control
-- Development Tools
-### Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=353535) 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=353535)
-![Elixir](https://img.shields.io/badge/-Elixir-05122A?style=flat-square&logo=Elixir&color=353535)
-![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=Node.js&color=353535) 
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-05122A?style=flat-square&logo=Express&color=353535) 
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=Flask&color=353535) 
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535) 
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) 
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat-square&logo=TensorFlow&color=353535) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) 
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) 
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=Amazon-AWS&color=353535) 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) 
-![Github](https://img.shields.io/badge/-Github-05122A?style=flat-square&logo=Github&color=353535) 
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat-square&logo=GNU-Bash&color=353535) 
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) 
-
-
-
----
+<h2 align="center">💻 Check Out My Repos ⬇️ </h2>
