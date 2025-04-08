@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
   
 <pre>
@@ -25,7 +25,7 @@ I enjoy pushing limits — whether it's ML pipelines, backend systems, or some o
 
 
 <br> <br>
-<div align="center">
+<div align="left">
     <a href="https://www.linkedin.com/in/dhruvalpadia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a target="_blank" href="mailto:padiadhruval@gmail.com"><img src="https://img.shields.io/badge/-padiadhruval@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://dhruvalpadia.site" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Website-3B5998?style=flat&logo=Google-Chrome&logoColor=white"/></a>
@@ -34,7 +34,7 @@ I enjoy pushing limits — whether it's ML pipelines, backend systems, or some o
 
 <br> <br>
 
-<div align="center">
+<div align="left">
 <table><tr><td valign="top" width="25%">
 
 ### Programming  
@@ -69,7 +69,7 @@ I enjoy pushing limits — whether it's ML pipelines, backend systems, or some o
 -->
 <br>
 <!-- Activity Graph -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/dhruval30">
     <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=dhruval30&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
   </a> 
@@ -77,7 +77,7 @@ I enjoy pushing limits — whether it's ML pipelines, backend systems, or some o
 
 <br>
 
-<p align="center">
+<p align="left">
    <a href="https://github.com/dhruval30"> 
      <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruval30&show_icons=true&locale=en&layout=demo&theme=onedark&hide_border=true" /> 
    </a>  
@@ -89,5 +89,12 @@ I enjoy pushing limits — whether it's ML pipelines, backend systems, or some o
 
 If you're into building with intent — or because you had a dumb idea at 2AM and couldn't let it go — we’ll get along just fine.  
 If you've ever built an entire system to automate a task that takes one minute manually — just so you could flex that it's automated — we should talk.
+
+<div id="header" align="left">
+  
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+  <img src="https://komarev.com/ghpvc/?username=dhruval30&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 </div>
