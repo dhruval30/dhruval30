@@ -1,39 +1,43 @@
 # Dhruval Padia
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvalpadia/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvalpadia/)
+
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:padiadhruval@gmail.com)
-[![Website](https://img.shields.io/badge/-Portfolio-c14438?style=flat&logo=Google-Chrome&logoColor=white)](https://dhruvalpadia.site)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=social&logo=github)](https://github.com/dhruval30)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://dhruvalpadia.site)](https://dhruvalpadia.site)
+[![Github](https://img.shields.io/badge/Github-Profile-black?style=social&logo=github)](https://github.com/dhruval30)
 
----
 
-## I Write Code, Not Bugs (Okay, Maybe Sometimes)
 
-CS student. Code builder. Occasional chaos engineer.
+## I Write Code, Not Bugs (Okay, Maybe Sometimes) 
 
-I'm that person who will start a project just because some random tech stack looked cool at 3am. Most of my time goes into building things — some useful, some questionably useful, all of them crafted with intent (or stubborn curiosity).
+But hey, that's how we learn! I'm a CS student on a quest to master the art of code. Join me as I debug my way to building awesome things!
 
----
+
+**Passionate Explorer:** I spend my days immersed in code, constantly pushing the limits of what's possible and uncovering the latest technologies.
+
+**Tech Nerd:** I'm drawn to new technologies and tools, always eager to learn and grow in this rapidly evolving field.
+
+**Innovative Collaborator:** I love collaborating with fellow enthusiasts to brainstorm innovative solutions and share insights.
 
 ## What Drives Me
 
-Code that makes sense. Ideas that shouldn’t work, but do.  
-I enjoy pushing limits — whether it's ML pipelines, backend systems, or some obscure CLI tool that no one asked for but now exists.
+My passion for coding is the fuel that drives me forward. Whether I'm tinkering with projects or diving into challenging algorithms, I'm always seeking out new opportunities to expand my knowledge and skill set.
 
----
+## Let's Connect!
 
-## Skills
+If you share my love for all things code and technology, let's connect and geek out together! There's always something exciting to discover in this dynamic world of technology.
 
-- Programming  
-- Backend Development  
-- Machine Learning  
-- Database Management  
-- Version Control  
-- Tooling & Workflow Optimization  
 
----
 
-## Tech Stack
+### Skills
+
+- Programming
+- Backend Development
+- Machine Learning
+- Database Management
+- Version Control
+- Development Tools
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=353535) 
@@ -53,9 +57,6 @@ I enjoy pushing limits — whether it's ML pipelines, backend systems, or some o
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat-square&logo=GNU-Bash&color=353535) 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) 
 
+
+
 ---
-
-## Let's Connect
-
-If you're into building with intent — or because you had a dumb idea at 2AM and couldn't let it go — we’ll get along just fine.  
-If you've ever built an entire system to automate a task that takes one minute manually — just so you could flex that it's automated — we should talk.
