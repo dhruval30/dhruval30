@@ -75,15 +75,15 @@ I enjoy pushing limits — whether it's ML pipelines, backend systems, or some o
   </a> 
 </p>
 
-<br>
+<!-- <br>
 
 <p>
    <a href="https://github.com/dhruval30"> 
      <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruval30&show_icons=true&locale=en&layout=demo&theme=onedark&hide_border=true" /> 
    </a>  
 </p>
-
-<br>
+-->
+<br> 
 
 ## Let's Connect
 
