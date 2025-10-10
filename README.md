@@ -28,7 +28,7 @@ I enjoy pushing limits — whether it's ML pipelines, backend systems, or some o
 <div>
     <a href="https://www.linkedin.com/in/dhruvalpadia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a target="_blank" href="mailto:padiadhruval@gmail.com"><img src="https://img.shields.io/badge/-padiadhruval@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://dhruvalpadia.site" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Website-3B5998?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+    <a href="https://dhruvalpadia.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Website-3B5998?style=flat&logo=Google-Chrome&logoColor=white"/></a>
     <a href="https://github.com/dhruval30" target="_blank"><img src="https://img.shields.io/badge/-GitHub%20Profile-24292e?style=flat&logo=GitHub&logoColor=white"/></a>
 </div>
 
